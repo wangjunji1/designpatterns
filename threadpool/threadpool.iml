@@ -11,5 +11,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:unknown" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-core:unknown" level="project" />
   </component>
 </module>
